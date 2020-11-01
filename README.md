@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Anmolzuck?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAnmolzuck&screen_name=Anmolzuck)
 
-## I'm a Student and Web Developer!!
+## I'm a Student and an aspiring web developer!!
 
 - 🔭 I’m currently working on Node.js.
 - 🌱 I’m currently learning React.js.
