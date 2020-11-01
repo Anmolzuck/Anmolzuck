@@ -50,7 +50,7 @@
 
 </details>
 
-[website]: #
+[website]: https://github.com/Anmolzuck
 [twitter]: https://twitter.com/Anmolzuck
 [instagram]: https://instagram.com/#
 [linkedin]: https://linkedin.com/in/#
