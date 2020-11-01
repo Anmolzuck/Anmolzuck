@@ -4,21 +4,21 @@
 
 ## I'm a Student and Web Developer!!
 
-- 🔭 I’m currently working on Nodejs
-- 🌱 I’m currently learning Reactjs
-- 👯 I’m looking to collaborate on Open Source
-- 🤔 I’m looking for help with React
-- 🥅 2020 Goals: Contribute to Open Source projects
-- 💬 Ask me about Javascript 
-- 📫 How to reach me: Twitter
-- ⚡ Fun fact: I used to think that one can completely learn JavaScript  🤣
+- 🔭 I’m currently working on Node.js.
+- 🌱 I’m currently learning React.js.
+- 👯 I’m looking to collaborate on Open Source.
+- 🤔 I’m looking for help with React.
+- 🥅 2020 Goals: Become a MERN Stack developer.
+- 💬 Ask me about Javascript and Web Development realted stuffs. 
+- 📫 How to reach me: Twitter and Gmail
+- ⚡ Fun fact:  I love listening to Punk rock and watching web series.
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="anmol zakie" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="anmol zakie | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="anmol zakie | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="anmol zakie | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
