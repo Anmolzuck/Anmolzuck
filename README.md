@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning React.js.
 - 👯 I’m looking to collaborate on Open Source.
 - 🤔 I’m looking for help with React.
-- 🥅 2020 Goals: Become a MERN Stack developer.
+- 🥅 2021 Goals: Become a MERN Stack developer.
 - 💬 Ask me about Javascript and Web Development realted stuffs. 
 - 📫 How to reach me: Twitter and Gmail
 - ⚡ Fun fact:  I love listening to Punk rock and watching web series.
